@@ -6,5 +6,6 @@ An interactive chatbot built with Streamlit and LLMs (like LLaMA 3) that examine
 
 Here are some screenshots of the application:
 
-![Screenshot 1](assets/img1.png)
-![Screenshot 2](assets/img2.png)
+![screenshot](Screenshot/img1.png)
+![screenshot](Screenshot/img1.png)
+
