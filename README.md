@@ -1,19 +1,10 @@
-<<<<<<< HEAD
 # ChatBot-withdoc
-An interactive chatbot built with Streamlit and LLMs that examines documents and provides detailed information based on their content.
-=======
-<<<<<<< HEAD
-# ChatBot-withdoc
-An interactive chatbot built with Streamlit and LLMs that examines documents and provides detailed information based on their content.
-=======
-<<<<<<< HEAD
-# ChatBotwith_Doc
-=======
-<<<<<<< HEAD
-# ChatBotwith_Doc
-=======
-# Chabotwith-doc
->>>>>>> a13ae04 (First Commit)
->>>>>>> 119dca7 (First Commit)
->>>>>>> 2d1963a (Firt Commit)
->>>>>>> 07b1ee4 (First Commit)
+
+An interactive chatbot built with Streamlit and LLMs (like LLaMA 3) that examines documents and provides detailed information based on their content. The chatbot analyzes user-uploaded documents and offers insights and summaries using advanced language models.
+
+## Screenshots
+
+Here are some screenshots of the application:
+
+![Screenshot 1](assets/img1.png)
+![Screenshot 2](assets/img2.png)
